@@ -1,6 +1,6 @@
 # Calculator for React 🎯
 
-You can check how it works [CALCULATOR](link) and improve your mathematical knowledge 🤓
+You can check how it works [CALCULATOR](https://blervin1.github.io/calculator/) and improve your mathematical knowledge 🤓
 
 ## Overview
 
