@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/calculator/static/css/main.d17d8011.css",
+    "main.js": "/github.io/calculator/static/js/main.b40914c6.js",
+    "index.html": "/github.io/calculator/index.html",
+    "main.d17d8011.css.map": "/github.io/calculator/static/css/main.d17d8011.css.map",
+    "main.b40914c6.js.map": "/github.io/calculator/static/js/main.b40914c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d17d8011.css",
+    "static/js/main.b40914c6.js"
+  ]
+}
