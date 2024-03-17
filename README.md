@@ -12,4 +12,4 @@ This is a simple calculator in react
 
 ## Info
 
-![How the calculator works ](https://raw.githubusercontent.com/Blervin1/Calculator-react-/main/calculator.gif)
+![How the calculator works ](https://raw.githubusercontent.com/Blervin1/calculator/main/calculator.gif)
